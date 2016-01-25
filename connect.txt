@@ -1,6 +1,3 @@
-#MySQL on the Command Line 
-
-
 // At Windows command prompt:
 cd c:\xampp\mysql\bin
 
