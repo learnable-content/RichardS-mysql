@@ -1,8 +1,1 @@
-#MySQL on the Command Line 
-
-
-// At Windows command prompt:
-cd c:\xampp\mysql\bin
-
-// Connect to mysql:
-mysql -u root -h localhost -ppassword
+#MySQL Database Commands
